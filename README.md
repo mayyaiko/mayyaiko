@@ -1,16 +1,17 @@
-<h1 align="center">Olá! 👋 Meu nome é Mayara Aiko</h1>
+<h1 align="center">Oi! Meu nome é Mayara Aiko</h1>
 
 <p align="center">
-  🚀 Bacharel em Sistemas de Informação | 💻 Estagiária na HUB TechLabs
+  🚀 Bacharel em Sistemas de Informação
 </p>
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Graduanda em **Sistemas de Informação** pela Universidade Federal de Uberlândia
+- 🎓 Graduanda em **Sistemas de Informação** pela Universidade Federal de Uberlândia (UFU)
 - 💡 Apaixonada por resolver problemas com código e aprender coisas novas
 - 🔭 Atualmente trabalhando em projetos de **Web Development**
+- 📚 Estudo atualmente o uso da plataforma Mendix, para desenvolvimento low-code, pela Low Code School
 
 ---
 
